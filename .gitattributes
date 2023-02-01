@@ -1,0 +1,4 @@
+resources/201908-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+resources/201908-citibike-tripdata-updated.csv filter=lfs diff=lfs merge=lfs -text
+Resources/201908-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+Resources/201908-citibike-tripdata-updated.csv filter=lfs diff=lfs merge=lfs -text
